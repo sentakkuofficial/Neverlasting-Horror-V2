@@ -115,6 +115,8 @@ Find the Blood Seals. Open the gates. Escape — or be found.
 
 This game is a companion experience to the Neverlasting novel series.
 
+## Game is live at:
+https://sentakkuofficial.github.io/Neverlasting-Horror-V2/
 ---
 
 *Escape the Grand Selection. Escape Satoshi. Escape the night.*
